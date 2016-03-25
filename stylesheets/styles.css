@@ -8,7 +8,7 @@ body {
   font-weight:300;
 }
 
-.video {
+.topvideo {
         position: absolute;
         margin: 0 0 0 -512px;
         left: 50%;
